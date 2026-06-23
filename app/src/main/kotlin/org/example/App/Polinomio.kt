@@ -1,7 +1,8 @@
-package org.example.app
+package org.example
+
 open class Polinomio {
 
     override fun toString (): String {
-    return "hola, soy un polinomio"
+    return "hola soy un polinomio"
     }
 }
